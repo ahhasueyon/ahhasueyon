@@ -10,7 +10,7 @@
 
 ## :pushpin: Contact
 - 이메일: tntn3827@naver.com
-- 깃헙: https://github.com/ahhasueyon/hamsuyeon
+- 깃헙: https://github.com/ahhasueyon
 
 </br>
 
