@@ -1,5 +1,4 @@
-# 함수연 포트폴리오
->캐치 프레이즈 ( 나를 보여줄 수 있는 한마디 )
+![header](https://capsule-render.vercel.app/api?type=waving&color=3838f4&text=Welcom%20to%20수연's%20GitHub%20🔎&fontColor=ffffff&fontSize=40&fontAlignY=35&height=180)
 
 </br>
 
@@ -9,8 +8,43 @@
 </br>
 
 ## :pushpin: Contact
-- 이메일: tntn3827@naver.com
-- 깃헙: https://github.com/ahhasueyon
+- E-mail : tntn3827@naver.com
+- GitHub : https://github.com/ahhasueyon
+
+</br>
+
+## :pushpin: Once I've used
+<div style="display:flex; flex-direction:column; align-items:flex-start;">
+   <!-- Frontend -->
+    <p><strong>Frontend</strong></p>
+    <div>
+        <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
+        <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
+        <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
+        <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
+    </div>
+    <!-- Backend -->
+    <p><strong>Backend</strong></p>
+    <div>
+        <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> 
+        <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white"> 
+      <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
+    </div>
+    <!-- Database -->
+    <p><strong>Database</strong></p>
+    <div>
+        <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
+        <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
+    </div>
+    <!-- Server -->
+    <p><strong>Server</strong></p>
+    <div>
+        <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black">
+        <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=amazon aws&logoColor=white"> 
+    </div>
+   
+   <br>
+</div>
 
 </br>
 
