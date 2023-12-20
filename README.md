@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=3838f4&text=Welcom%20to%20수연's%20GitHub%20🔎&fontColor=ffffff&fontSize=40&fontAlignY=35&height=180)
+![header](https://capsule-render.vercel.app/api?type=waving&color=1c591c&text=Welcom%20to%20수연's%20GitHub%20🔎&fontColor=ffffff&fontSize=40&fontAlignY=35&height=180)
 
 </br>
 
@@ -50,7 +50,8 @@
 
 ## :pushpin: Projects
 ### 1. [Drug is Death](https://github.com/2023-SMHRD-IS-CLOUD-1/StrongRepo)
->openCV기반 10대 청소년 대상 마약 예방 교육 자료 및 체험 서비스 (팀 프로젝트)  
+>openCV기반 10대 청소년 대상 마약 예방 교육 자료 및 체험 서비스 (팀 프로젝트)
+> 
 >개발 기간: 2023.11.22 ~ 2023.12.07 
 >  
 >기술 스택:  
@@ -61,7 +62,8 @@
 ---
 
 ### 2. [두 번째 프로젝트](https://github.com/JungHyung2/gitio.io)
->두 번째 프로젝트 간략 소개  (팀 프로젝트)  
+>두 번째 프로젝트 간략 소개  (팀 프로젝트)
+>  
 >개발 기간: 2020.7.18 ~ 2020.11.5  
 >  
 >기술 스택:  
@@ -73,7 +75,8 @@
 ---
 
 ### 3. [세 번째 프로젝트](https://github.com/JungHyung2/gitio.io)
->세 번째 프로젝트 간략 소개  (개인 프로젝트)  
+>세 번째 프로젝트 간략 소개  (개인 프로젝트)
+>  
 >개발 기간: 2018.1.18 ~ 2018.4.5  
 >  
 >기술 스택:  
