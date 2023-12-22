@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=1c591c&text=Welcom%20to%20수연's%20GitHub%20🔎&fontColor=ffffff&fontSize=40&fontAlignY=35&height=180)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcom%20to%20수연's%20GitHub&fontColor=ffffff&fontSize=40&fontAlignY=35&height=180)
 
 </br>
 
@@ -27,7 +27,7 @@
     <p><strong>Backend</strong></p>
     <div>
         <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> 
-        <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white"> 
+        <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
       <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
     </div>
     <!-- Database -->
